@@ -1,3 +1,4 @@
-name = ["Harry", "Ron", "Hermione"]
+conrdinareX = 10.0
+conrdinateY = 20.0
 
-print(name[1])
+conrdinare = (10.0, 20.0)
